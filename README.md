@@ -11,7 +11,6 @@ hola me llamo Renzo Rafael soy desarrollador junior, creo proyectos por mi cuent
 ```
 ------
 
-#### lenguajes favoritos mios:
 
 
 <!--
