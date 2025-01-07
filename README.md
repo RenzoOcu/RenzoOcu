@@ -24,10 +24,10 @@ hola me llamo Renzo Rafael soy desarrollador junior, creo proyectos por mi cuent
  
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 🎓 I'm a Computer Engineering undergrad  
-- 💻 I’m currently working at [Epsilon](https://www.epsilon.com/us) 
-- ⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love photography, programming, data science and books 
+- 🎓 universitario  
+- 💻 programador react
+- ⭐ mi objetivo en 2025 es contribuir a la tecnologia
+- ⚡ me gusta editar y programar aplicaciones
 
 
 #### Languages and Tools 
