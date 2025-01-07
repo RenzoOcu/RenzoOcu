@@ -3,7 +3,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l0NwQEjAS77JyRvig" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-pixel-l0NwQEjAS77JyRvig">via GIPHY</a></p>
+
 
 ```diff
 hola me llamo Renzo Rafael soy desarrollador junior, creo proyectos por mi cuenta  🔮.
