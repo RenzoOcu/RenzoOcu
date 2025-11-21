@@ -6,7 +6,7 @@
 
 
 ```diff
-hola me llamo Renzo Rafael soy desarrollador junior, creo proyectos por mi cuenta  🔮.
+hola me llamo Renzo Rafael soy desarrollador junior  🔮.
 
 @@advanced programming student.@@
 + universitario 
