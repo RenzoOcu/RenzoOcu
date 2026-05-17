@@ -10,8 +10,8 @@ hola me llamo Renzo Rafael soy desarrollador junior  🔮.
 
 @@advanced programming student.@@
 + universitario 
-- ciclo 5
-! programador frontend
+- ciclo 6
+! programador frontend code 
 # 📖 con una pasion para aprender 
 ```
 ------
